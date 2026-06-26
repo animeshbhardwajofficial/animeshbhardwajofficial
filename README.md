@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Animesh Bhardwaj 👋
 
-<!--
-**animeshbhardwajofficial/animeshbhardwajofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE Student (2026)
+- 💻 Full-Stack Developer (MERN)
+- 🌱 Currently building **StudyZen** — a modern EdTech platform
+- 📚 Solving Data Structures & Algorithms daily
+- 🤖 Learning Backend Engineering, System Design and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+JavaScript • Java • HTML • CSS
+
+### Frontend
+React • Tailwind CSS • Redux
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB • PostgreSQL
+
+### Tools
+Git • GitHub • Postman • VS Code • Prisma
+
+---
+
+## 🚀 Current Focus
+
+- Building production-grade MERN applications
+- Backend Development
+- PostgreSQL
+- System Design
+- AI Engineering
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/animeshbhardwajofficial
+- Email: animeshbhardwajofficial@gmail.com
+
+---
+
+⭐ Always building. Always learning.
