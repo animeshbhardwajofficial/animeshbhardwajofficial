@@ -1,49 +1,111 @@
-# Hi, I'm Animesh Bhardwaj 👋
+# Hi 👋, I'm Animesh Bhardwaj
 
-## 🚀 About Me
+### Full Stack Developer | Backend Enthusiast | Building Production-Grade Software
 
-- 🎓 B.Tech CSE Student (2026)
-- 💻 Full-Stack Developer (MERN)
-- 🌱 Currently building **StudyZen** — a modern EdTech platform
-- 📚 Solving Data Structures & Algorithms daily
-- 🤖 Learning Backend Engineering, System Design and AI
+I'm a recent B.Tech Computer Science graduate passionate about building scalable web applications, designing clean backend architectures, and continuously improving my engineering skills.
+
+Currently focused on developing real-world projects while strengthening my expertise in backend engineering, system design, databases, and DevOps.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Currently Building
+
+### 📚 StudyZen
+
+A production-grade Learning Management System built with React, Express, PostgreSQL, and Prisma.
+
+Current features include:
+
+- 🔐 JWT Authentication
+- 📖 Course Management
+- 🎓 Course Enrollment
+- 📈 Lesson Progress Tracking
+- 📱 Responsive UI
+- 🗄 PostgreSQL + Prisma
+- ⚡ REST API Architecture
+
+More production features are actively being developed.
+
+---
+
+## 💻 Tech Stack
 
 ### Languages
-JavaScript • Java • HTML • CSS
+
+- JavaScript (ES6+)
+- Java
+- HTML5
+- CSS3
 
 ### Frontend
-React • Tailwind CSS • Redux
+
+- React
+- React Router
+- Context API
+- Axios
+- Tailwind CSS
 
 ### Backend
-Node.js • Express.js
+
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
 
 ### Database
-MongoDB • PostgreSQL
+
+- PostgreSQL
+- Prisma ORM
+- MongoDB
 
 ### Tools
-Git • GitHub • Postman • VS Code • Prisma
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Prisma
+- Figma
 
 ---
 
-## 🚀 Current Focus
+## 🌱 Currently Learning
 
-- Building production-grade MERN applications
-- Backend Development
-- PostgreSQL
+- Advanced Backend Engineering
 - System Design
-- AI Engineering
+- DevOps
+- Docker
+- CI/CD
+- Redis
+- Cloud Platforms
+- Performance Optimization
+
+---
+
+## 🎯 2026 Goals
+
+- Build multiple production-grade full-stack applications
+- Master Data Structures & Algorithms
+- Deepen backend engineering knowledge
+- Learn scalable system architecture
+- Contribute to open source
+- Secure a Software Engineer role
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=animeshbhardwajofficial&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshbhardwajofficial&layout=compact&theme=transparent)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/animeshbhardwajofficial
-- Email: animeshbhardwajofficial@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/animeshbhardwajofficial
+- 📧 Email: animeshbhardwajofficial@gmail.com
 
 ---
 
-⭐ Always building. Always learning.
+> "Great software is built through consistency, curiosity, and continuous learning."
