@@ -93,14 +93,6 @@ More production features are actively being developed.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=animeshbhardwajofficial&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshbhardwajofficial&layout=compact&theme=transparent)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/animeshbhardwajofficial
